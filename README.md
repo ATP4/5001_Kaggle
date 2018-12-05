@@ -35,3 +35,7 @@ train_data_new = pd.read_csv("./input/train.csv")
 train_data_old = pd.read_csv("./input/train_old.csv")
 
 Remaining comments and code is in 'Kaggle_Final_Week_GH.ipynb'
+
+---------------------//---------------------
+ITSC Username : aparyani
+Kaggle Team Name: aparyani
