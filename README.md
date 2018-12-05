@@ -30,12 +30,12 @@ from sklearn.model_selection import train_test_split \
 
 Import CSV's into data frame
 
-test_data = pd.read_csv("./input/test.csv") \
-train_data_new = pd.read_csv("./input/train.csv") \
-train_data_old = pd.read_csv("./input/train_old.csv") \
+test_data = pd.read_csv("./input/test.csv") <br/>
+train_data_new = pd.read_csv("./input/train.csv") <br/>
+train_data_old = pd.read_csv("./input/train_old.csv") <br/>
 
-Remaining comments and code is in 'Kaggle_Final_Week_GH.ipynb' \
+Remaining comments and code is in 'Kaggle_Final_Week_GH.ipynb' <br/>
 
----------------------//--------------------- \
-ITSC Username : aparyani \
+---------------------//--------------------- <br/>
+ITSC Username : aparyani <br/>
 Kaggle Team Name: aparyani
